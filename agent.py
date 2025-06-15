@@ -228,4 +228,3 @@ class Agent():
     # print(agent.graph_func('感冒一般是由什么引起的？'))
     # print(agent.graph_func('感冒吃什么药好得快？可以吃阿莫西林吗？'))
 
-    # print(agent.search_func('陈华编程是什么？'))
